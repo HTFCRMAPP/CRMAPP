@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "podOfCrmApp"
-  s.version      = "0.0.1"
+  s.version      = "0.0.5"
   s.summary      = "A short description of podOfCrmApp."
 
   # This description is used to generate tags and improve search results.
