@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "podOfCrmApp"
-  s.version      = "0.0.6"
+  s.version      = "0.0.7"
   s.summary      = "A short description of podOfCrmApp."
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Htf fund crm
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "*.{h,m}"
+  s.source_files  = "*.*"
   s.exclude_files = ""
 
   # s.public_header_files = "*.h"
