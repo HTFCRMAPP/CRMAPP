@@ -53,7 +53,7 @@ Htf fund crm
   #  profile URL.
   #
 
-  s.author             = "Eric.Zhang"
+  s.author             = "NetCloud"
   # Or just: s.author    = ""
   # s.authors            = { "" => "" }
   # s.social_media_url   = "http://twitter.com/"
