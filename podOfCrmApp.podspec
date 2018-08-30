@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "podOfCrmApp"
-  s.version      = "0.0.5"
+  s.version      = "0.0.6"
   s.summary      = "A short description of podOfCrmApp."
 
   # This description is used to generate tags and improve search results.
@@ -118,7 +118,7 @@ Htf fund crm
   #
 
   # s.framework  = "SomeFramework"
-  s.frameworks = "UIKit", "MapKit"
+  s.frameworks = "UIKit", "MapKit" , "Foundation"
 
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
