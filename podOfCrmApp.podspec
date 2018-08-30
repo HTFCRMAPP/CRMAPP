@@ -118,7 +118,7 @@ Htf fund crm
   #
 
   # s.framework  = "SomeFramework"
-  # s.frameworks = "SomeFramework", "AnotherFramework"
+  s.frameworks = "UIKit", "MapKit"
 
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
